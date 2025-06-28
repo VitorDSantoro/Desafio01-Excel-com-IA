@@ -17,5 +17,5 @@ Durante o curso foi apresentado na prática as principais funcionalidades do Exc
 3. Insira suas informações financeiras nos campos indicados;
 4. Veja as simulações geradas automaticamente.
 
-## ⚠️ Atenção!
+## ⚠️ Atenção
 - Este repositório tem como objetivo colocar em prática aprendizados e técnicas adquiridas no curso, ou seja, **NÃO PODE SER CONSIDERADA UMA RECOMENDAÇAO DE INVESTIMENTO**, busque sempre a orientação de um profissional da área.
